@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[ProjectPriceCalculatorCommandLine] - ...\src\com\resanc\projectpricecalculatorcommandline\datamodel\ElementWBS.java'" />
-    <option name="defaultScopeName" value="File '[ProjectPriceCalculatorCommandLine] - ...\src\com\resanc\projectpricecalculatorcommandline\datamodel\ElementWBS.java'" />
-    <option name="SEARCH_SCOPE" value="File '[ProjectPriceCalculatorCommandLine] - ...\src\com\resanc\projectpricecalculatorcommandline\datamodel\ElementWBS.java'" />
+    <option name="customScope" value="Project 'collector4files'" />
+    <option name="defaultScopeName" value="Project 'collector4files'" />
+    <option name="SEARCH_SCOPE" value="Project 'collector4files'" />
   </component>
 </application>
