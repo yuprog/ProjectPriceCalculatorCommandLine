@@ -14,6 +14,10 @@
           <option name="url" value="http://gitlab.at-consulting.ru" />
           <option name="userName" value="ydubrovskiy" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/d-shap/cli.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\IdeaProjects" />
